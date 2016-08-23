@@ -1,3 +1,12 @@
 # Ruby Test framework skeleton
 
-This is a small project which is used as a skeleton for Ruby test frameworks
+# Requirements
+ruby 2.2.1
+
+# Installation
+
+bundler install
+
+# Run tests
+
+rspec spec/springer_search.rb
